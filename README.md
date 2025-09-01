@@ -1,4 +1,4 @@
-## Hi there 👋<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## Hi there 👋<img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNtbjZ2MDJodnIwcjc1bXQ2Nm51Z3Q4eW5sNmpqbzhpM2poN3BvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif)" width="50">
 
 <--
 **EPA-24/EPA-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
