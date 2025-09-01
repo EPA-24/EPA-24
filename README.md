@@ -1,17 +1,18 @@
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNtbjZ2MDJodnIwcjc1bXQ2Nm51Z3Q4eW5sNmpqbzhpM2poN3BvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif"> <h2> Hi, I'm Eduardo Perez, Cancer Biology PhD student.
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNtbjZ2MDJodnIwcjc1bXQ2Nm51Z3Q4eW5sNmpqbzhpM2poN3BvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif" align="center"> <h2> I'm Eduardo Perez 
 
 
-<--
-**EPA-24/EPA-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PhD student at <a href="https://pcbiol.posgrado.unam.mx/"> Universidad Nacional Autónoma de México**  
+**<p><em>Specializing in cancer biology data analysis**
 
-Here are some ideas to get you started:
+<h3> 👨🏻•💻 About Me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+
+- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+
+- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+
+- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+
