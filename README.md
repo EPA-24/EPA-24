@@ -16,3 +16,7 @@
 
 -  &nbsp; Pursuing Biomedic data anlaysyt job someday.
 
+<h4> • Fun fact </h4>
+
+- &nbsp; Lord of the Rings super fan
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTUwYXVnZjgxZWR2NTdyazZsemc5czNhdGszOXkwd2o0NmFpYWg3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TcdpZwYDPlWXC/giphy.gif" align="center">
