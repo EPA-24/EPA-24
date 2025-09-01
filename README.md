@@ -1,5 +1,5 @@
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNtbjZ2MDJodnIwcjc1bXQ2Nm51Z3Q4eW5sNmpqbzhpM2poN3BvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif">
-I´m Eduardo, Cancer biology PhD student.
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNtbjZ2MDJodnIwcjc1bXQ2Nm51Z3Q4eW5sNmpqbzhpM2poN3BvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif"> <h2> Hi, I'm Eduardo Perez, Cancer Biology PhD student.
+
 
 <--
 **EPA-24/EPA-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
